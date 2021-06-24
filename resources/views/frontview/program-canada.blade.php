@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>ZIP Travel Philippines</title>
+    <title>ZIP Travel Ecuador</title>
     <meta name="robots" content="index, follow">
     <meta name="twitter:description" content="ZIP Travel is a career and education counseling/travel organization. We help students and young professionals attend cultural exchanges in the United States, Australia, and Canada.  As a global company, we have been in the business for over 27 years and have helped thousands of students worldwide obtain an opportunity to participate in the Cultural Exchange Program authorized by the U.S. Department of State. ">
     <meta name="twitter:image" content="{{ asset('assets/img/J1%20PROGRAMS-1.jpg') }}">

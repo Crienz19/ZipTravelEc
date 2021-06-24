@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>ZIP Travel Philippines</title>
+    <title>ZIP Travel Ecuador</title>
     <meta name="robots" content="index, follow">
     <meta name="twitter:description" content="ZIP Travel is a career and education counseling/travel organization. We help students and young professionals attend cultural exchanges in the United States, Australia, and Canada.  As a global company, we have been in the business for over 27 years and have helped thousands of students worldwide obtain an opportunity to participate in the Cultural Exchange Program authorized by the U.S. Department of State. ">
     <meta name="twitter:image" content="assets/img/J1%20PROGRAMS-1.jpg">
@@ -52,8 +52,8 @@
                 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 d-lg-flex align-items-lg-center mb-2">
                     <div class="card d-md-flex flex-fill align-items-md-center">
                         <div class="card-body text-center d-flex flex-column">
-                            <h5 style="font-size: 16px;font-weight: bold;">Summer Work Travel Program</h5><small>3 months (February - May or January - October)</small>
-                            <p class="text-center" style="font-size: 13px;">Summer Work Travel program is a three-month program from March to June or May to August designed for college and university students...&nbsp;</p><a class="btn btn-primary btn-block white-read-more" role="button" href="/our-programs/swt">READ MORE</a></div>
+                            <h5 style="font-size: 16px;font-weight: bold;">Summer Work Travel Program</h5><small>3 months (February 21 - May 2 or January 20 - October 1)</small>
+                            <p class="text-center" style="font-size: 13px;">Summer Work Travel program is a 3-4 month program from February 21 to May 2 for Ecuador, Guayaquil or January 20 to October 1 for Ecuador, Quito designed for college and university students...&nbsp;</p><a class="btn btn-primary btn-block white-read-more" role="button" href="/our-programs/swt">READ MORE</a></div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 align-items-md-center justify-content-xl-center mb-2">

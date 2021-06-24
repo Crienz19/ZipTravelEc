@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>ZIP Travel Philippines</title>
+    <title>ZIP Travel Ecuador</title>
     <meta name="robots" content="index, follow">
     <meta name="twitter:description" content="ZIP Travel is a career and education counseling/travel organization. We help students and young professionals attend cultural exchanges in the United States, Australia, and Canada.  As a global company, we have been in the business for over 27 years and have helped thousands of students worldwide obtain an opportunity to participate in the Cultural Exchange Program authorized by the U.S. Department of State. ">
     <meta name="twitter:image" content="{{ asset('assets/img/J1%20PROGRAMS-1.jpg') }}">
@@ -33,7 +33,7 @@
         <div class="container-fluid">
             <div>
                 <h3 class="text-center" style="font-weight: bold;">SUMMER WORK TRAVEL PROGRAM</h3>
-                <p class="text-justify text-lg-center text-xl-center mt-3">Summer Work Travel program is a three-month program from February to May or January to October designed for college and university students to experience living and working in the United States during their summer vacation from college or university.
+                <p class="text-justify text-lg-center text-xl-center mt-3">Summer Work Travel program is a 3-4 month program from February 21 to May 2 for Ecuador, Guayaquil or January 20 to October 1 for Ecuador, Quito designed for college and university students to experience living and working in the United States during their summer vacation from college or university.
                     <br></p>
             </div>
         </div>
