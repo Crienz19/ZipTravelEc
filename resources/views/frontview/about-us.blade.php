@@ -33,8 +33,7 @@
         <div class="container-fluid">
             <div id="about-us">
                 <h3 class="text-center" style="font-weight: bold;">ABOUT ZIP TRAVEL ECUADOR</h3>
-                <p class="text-justify text-xl-center mt-4">ZIP Travel was established in 2021 and has recorded tremendous growth since it started in South America. ZIP Travel Ecuador dedicates its success to its principle of providing foreign students intercultural opportunities for work,
-                    travel, and training with the utmost professionalism.<br></p>
+                <p class="text-justify text-xl-center mt-4">ZIP Travel was expanded into Equator in 2021 and has identified tremendous growth potential in South America. ZIP Travel Ecuador is dedicated to its principle of providing foreign students intercultural opportunities for work, travel, and training with the utmost professionalism.<br></p>
             </div>
             <div style="z-index: -100;">
                 <ul class="nav nav-tabs nav-fill" style="background-color: #002157;">
