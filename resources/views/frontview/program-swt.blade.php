@@ -33,7 +33,7 @@
         <div class="container-fluid">
             <div>
                 <h3 class="text-center" style="font-weight: bold;">SUMMER WORK TRAVEL PROGRAM</h3>
-                <p class="text-justify text-lg-center text-xl-center mt-3">Summer Work Travel program is a three-month program from March to June or May to August designed for college and university students to experience living and working in the United States during their summer vacation from college or university.
+                <p class="text-justify text-lg-center text-xl-center mt-3">Summer Work Travel program is a three-month program from February to May or January to October designed for college and university students to experience living and working in the United States during their summer vacation from college or university.
                     <br></p>
             </div>
         </div>

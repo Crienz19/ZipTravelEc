@@ -52,7 +52,7 @@
                 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 d-lg-flex align-items-lg-center mb-2">
                     <div class="card d-md-flex flex-fill align-items-md-center">
                         <div class="card-body text-center d-flex flex-column">
-                            <h5 style="font-size: 16px;font-weight: bold;">Summer Work Travel Program</h5><small>3 months (March - June or May - August)</small>
+                            <h5 style="font-size: 16px;font-weight: bold;">Summer Work Travel Program</h5><small>3 months (February - May or January - October)</small>
                             <p class="text-center" style="font-size: 13px;">Summer Work Travel program is a three-month program from March to June or May to August designed for college and university students...&nbsp;</p><a class="btn btn-primary btn-block white-read-more" role="button" href="/our-programs/swt">READ MORE</a></div>
                     </div>
                 </div>
