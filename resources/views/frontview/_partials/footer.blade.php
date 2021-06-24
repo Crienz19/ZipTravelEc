@@ -5,11 +5,12 @@
                 <ul>
                     <li><a href="#">Dirección: Ave. Diagonal 211 y Ave. Jose Carrera Calvo. <br>Colinas de los Ceibos, Guayaquil Ecuador</a></li>
                     <li><a href="#">+1 850 532 5650</a></li>
+                    <li><a href="mailto:info@ziptravel.ec">info@ziptravel.ec</a></li>
                 </ul>
             </div>
         </div>
     </div>
     <div class="col-xl-12 justify-content-xl-center align-items-xl-center">
-        <p>ZIP Travel&nbsp; Ecuador @ {{ date('Y') }}</p>
+        <p>ZIP Travel Ecuador @ {{ date('Y') }}</p>
     </div>
 </footer>

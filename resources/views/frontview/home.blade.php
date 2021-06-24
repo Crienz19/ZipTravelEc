@@ -134,7 +134,7 @@
                 <h2 class="text-center text-white">ABOUT US</h2>
                 <p class="text-justify text-lg-center text-xl-center text-white mb-4">ZIP Travel is a career and education counseling/travel organization. We help students and young&nbsp;professionals attend cultural exchanges in the United States, Australia, and Canada.&nbsp; As a global company, we have been in the business
                     for over 27 years and have helped thousands of students worldwide obtain an opportunity to participate in the Cultural Exchange Program authorized by the U.S. Department of State.&nbsp;<br><br>ZIP Travel has offices in the Philippines,
-                    Europe, and Ecuador. <br></p><button class="btn btn-outline-light border rounded-0 border-white" type="button">READ MORE</button></div>
+                    Europe, and Ecuador. <br></p><a href="/about-us" class="btn btn-outline-light border rounded-0 border-white">READ MORE</a></div>
         </div>
     </section>
     <div class="carousel slide" data-ride="carousel" data-keyboard="false" id="carousel-2">
